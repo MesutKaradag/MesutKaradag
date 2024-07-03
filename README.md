@@ -1,6 +1,6 @@
 ### Hi there 👋, Mesut Karadağ
-
-Merhaba, 12-13 yaşlarımdan beri bilgisayara ve araştırma yapmaya karşı bir tutkum var. Liseden mezun olduktan sonra İstanbul Rumeli Üniversitesi'nde Bilgisayar Mühendisliği bölümüne başladım ve Java konusunda kendimi geliştirmeye çalıştım. Yeni teknolojileri araştırmayı ve kullanmayı severim. Amacım kendimi her geçen gün bir adım daha geliştirmek ve  teknoloji sayesinde insanların hayatlarına olumlu bir etki bırakmak.
+#### Bilgisayar Mühendisliği Mezunu
+Merhaba, 12-13 yaşlarımdan beri bilgisayarlara ve araştırma yapmaya karşı bir tutkum var. Liseden mezun olduktan sonra İstanbul Rumeli Üniversitesi'nde Bilgisayar Mühendisliği bölümüne başladım ve Java konusunda kendimi geliştirmeye çalıştım. Yeni teknolojileri araştırmayı ve kullanmayı severim. Amacım kendimi her geçen gün bir adım daha geliştirmek ve  teknoloji sayesinde insanların hayatlarına olumlu bir etki bırakmak.
 
 
 
